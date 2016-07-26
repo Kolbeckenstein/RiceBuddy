@@ -1,0 +1,26 @@
+<GrainList>
+    <Rice name="Jasmine">
+		<CookStyle name="Rice Cooker">
+				<ExpansionRatio>2</ExpansionRatio>
+				<WaterRatio>1.5</WaterRatio>
+				<CookTime>15</CookTime>
+		</CookStyle>
+		<CookStyle name="Pressure Cooker">
+				<ExpansionRatio>2</ExpansionRatio>
+				<WaterRatio>3</WaterRatio>
+				<CookTime>5</CookTime>
+		</CookStyle>
+	</Rice>
+	<Rice name="Basmati">
+		<CookStyle name="Rice Cooker">
+		    	<ExpansionRatio>1.5</ExpansionRatio>
+				<WaterRatio>2</WaterRatio>
+				<CookTime>12</CookTime>
+		</CookStyle>
+		<CookStyle name="Pressure Cooker">
+		    	<ExpansionRatio>1.5</ExpansionRatio>
+				<WaterRatio>2.5</WaterRatio>
+				<CookTime>4</CookTime>
+		</CookStyle>
+	</Rice>
+</GrainList>
